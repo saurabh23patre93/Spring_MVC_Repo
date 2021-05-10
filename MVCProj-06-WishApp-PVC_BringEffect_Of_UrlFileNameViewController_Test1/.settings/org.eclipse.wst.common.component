@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="MVCProj-05-WishApp-ParameterizedViewController">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/" source-path="/build"/>
+        <property name="java-output-path" value="/MVCProj-05-WishApp-ParameterizedViewController/build/classes"/>
+        <property name="context-root" value="MVCProj-06-WishApp-UrlFileNameViewControllerMVCProj-06-WishApp-PVC_BringEffect_Of_UrlFileNameViewController_Test1"/>
+    </wb-module>
+</project-modules>
